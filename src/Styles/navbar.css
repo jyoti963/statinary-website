@@ -1,0 +1,11 @@
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(8, 8, 48);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.navbar-light .navbar-brand{
+    color: rgb(8, 8, 48);
+    font-size: 30px;
+    font-weight: 1000;
+}
